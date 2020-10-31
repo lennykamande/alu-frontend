@@ -23,4 +23,11 @@
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
+  .row{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 </style>

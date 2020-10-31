@@ -1,5 +1,8 @@
 # ALU take home
 
+[![Build Status](https://travis-ci.org/lennykamande/alu-test.svg?branch=main)](https://travis-ci.org/lennykamande/alu-test) [![Coverage Status](https://coveralls.io/repos/github/lennykamande/alu-test/badge.svg?branch=main)](https://coveralls.io/github/lennykamande/alu-test?branch=main)
+
+
 > Signup, Login and Homepage/Dashboard
 
 ### Installing
